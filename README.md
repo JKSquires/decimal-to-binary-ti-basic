@@ -1,7 +1,7 @@
 # decimal-to-binary-ti-basic
 ![screenshot](DECTOBIN.png)
 
-A TI-Basic program that can convert decimal numbers to binary numbers
+A TI-Basic program that can convert decimal numbers to binary numbers up to, but not including, 2^26 (or 67,108,864).
 
 ---
 
